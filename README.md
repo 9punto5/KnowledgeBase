@@ -1,5 +1,7 @@
 # Knowledge base
-9punto5 nació en Valdivia con la primera versión de la conferencia en 2016, desde ahí decidimos que fuera un evento anual. Ha sido un viaje muy motivante donde hemos ido desarrollando una comunidad de personas interesadas - finalmente -  en hacer que el trabajo sea mejor para todos.
+9punto5 nació en Valdivia en 2016, año en que realizamos la [primera versión](http://2016.9punto5.cl/) de la conferencia y que finalmente se estableció como un evento anual con las versiones [2017](http://2017.9punto5.cl/) y [2018](http://2018.9punto5.cl/).
+
+Ha sido un viaje muy motivante donde hemos ido desarrollando una comunidad de personas interesadas, finalmente, en hacer que el trabajo sea mejor para todos.
 
 ## Secciones
 * [Comunidad de Héroes 9punto5](https://github.com/9punto5/KnowledgeBase/blob/master/Comunidad-9punto5-hero.md)
