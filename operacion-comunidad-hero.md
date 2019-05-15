@@ -30,7 +30,7 @@ Ejemplos:
 ## Tu eliges que desafío quieres tomar
 De todos los desafíos que estén disponibles tu podrás elegir qué desafío quieres y puedas realizar, para lo que además es necesario que informes una fecha máxima en que te comprometes a hacer la entrega.
 
-Nota: Existen desafíos que pueden ser tomados por más de una persona.
+> Nota: Existen desafíos que pueden ser tomados por más de una persona.
 
 ## Los proceso de toma de decisión
 Estos se informarán caso a caso, en general las posibilidades son:
