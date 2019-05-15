@@ -1,4 +1,4 @@
-# Beneficios para héroes de 9punto5
+# Beneficios para Héroes de 9punto5
 Los principales beneficios que tendrás al ser miembro de la comunidad de héroes son:
 
 - **Mejorar el trabajo para todos:** Creemos que hacer que el trabajo sea mejor para todos es un desafío que vale el esfuerzo. Si esto te motiva serás parte del grupo de personas que está movilizando cambios positivos en favor de las personas y el trabajo.
