@@ -35,5 +35,5 @@ De todos los desafíos que estén disponibles tu podrás elegir qué desafío qu
 ## Los proceso de toma de decisión
 Estos se informarán caso a caso, en general las posibilidades son:
 - **Decisión individual:** el responsable del equipo es quien toma la decisión final.
-- **Decisión grupal:** Todos pueden opinar durante un tiempo y decide la mayoría.
-- **Opinión abierta y decisión individual:** Todos pueden opinar durante un tiempo y decide individualmente el responsable del equipo.
+- **Decisión grupal:** todos pueden opinar durante un tiempo y decide la mayoría.
+- **Opinión abierta y decisión individual:** todos pueden opinar durante un tiempo y decide individualmente el responsable del equipo.
