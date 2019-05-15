@@ -27,7 +27,7 @@ Ejemplos:
 - Buscar y seleccionar 3 contenidos relevantes en español sobre “el futuro del trabajo” para la próxima edición del Newsletter. Con esto necesitamos hacer curatoría de contenido de calidad que podamos entregar como valor a la comunidad 9punto5 en nuestro Nesletter y también por redes sociales.
 - Escribir un post para el blog de 9punto5. La idea es que puedas escribir en el blog un contenido relevante sobre los temas que tratamos en 9punto5.
 
-## Tu eliges qué desafío quieres tomar
+## Tu eliges que desafío quieres tomar
 De todos los desafíos que estén disponibles tu podrás elegir qué desafío quieres y puedas realizar, para lo que además es necesario que informes una fecha máxima en que te comprometes a hacer la entrega.
 
 Nota: Existen desafíos que pueden ser tomados por más de una persona.
