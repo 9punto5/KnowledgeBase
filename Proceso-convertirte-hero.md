@@ -7,7 +7,7 @@ En 2019 la convocatoria de héroes [estuvo abierta](https://blog.9punto5.cl/todo
 
 **La convocatoria para ser héroes en 2019 está cerrada.**
 
-## Entrevitas
+## Entrevistas
 Normalmente lo primero que haremos después de tu postulación será coordinar una entrevistas breve (videollamada) para empezar a conocernos, saber por qué te motiva a apoyar 9punto5, resolver dudas que pudieras tener y repasar las áreas en que podrías colaborar.
 
 ## Confirmar tu participación como héroe
