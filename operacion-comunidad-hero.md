@@ -8,13 +8,17 @@ El primer paso es entrar al Slack de 9punto5, (mediante invitación). Este es nu
 
 Adicionalmente tenemos canales temáticos para las distintas áreas de 9punto5.
 
-* heros-contenidos
+* heros-blog
+* heros-contenidos-av
+* heros-contenidos-esc
+* heros-difusion-rrss
 * heros-diseño
 * heros-funding
+* heros-md-rrss
 * heros-medios
-* heros-producción 
+* heros-pre-producción
+* heros-producción
 * heros-reflexión
-* heros-rrss
 * heros-web
 
 Cada canal tiene un responsable asignado al que conocerás al entrar en el.
