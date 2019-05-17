@@ -1,4 +1,4 @@
-# Comunidad de Héroes 9punto5
+# Qué es la comunidad de Héroes de 9punto5
 Muchos nos han preguntado a través del tiempo como podrían contribuir a 9punto5 y por primera vez en 2019 decidimos crear la primera generación de voluntarios en 9punto5.
 
 Estamos de esta manera distribuyendo parte del esfuerzo por construir la principal conferencia anual sobre trabajo remoto y tecnología de Latinoamérica.
