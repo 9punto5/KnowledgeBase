@@ -4,7 +4,7 @@ Entendiendo que tu trabajo como héroe de 9punto5 es voluntario hemos diseñado 
 El sistema funciona remoto, sin reuniones presenciales como requisito.
 
 ## Slack, primer paso
-El primer paso es entrar al Slack de 9punto5, (mediante invitación). Este es nuestro centro de comunicaciones, colaboración y coordinación. Tenemos un canal común llamado “95-heros” donde está toda la comunidad de héroes, al que se ingresa por invitación.
+El primer paso es entrar al Slack de 9punto5, (mediante invitación). Este es nuestro centro de comunicaciones, colaboración y coordinación. Tenemos un canal común llamado **“95-heroes”** donde está toda la comunidad de héroes, al que se ingresa por invitación.
 
 Adicionalmente tenemos canales temáticos para las distintas áreas de 9punto5.
 
