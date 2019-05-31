@@ -10,7 +10,7 @@ Adicionalmente tenemos canales temáticos para las distintas áreas de 9punto5.
 
 * heros-blog
 * heros-contenidos-av
-* heros-contenidos-esc
+* heros-contenidos
 * heros-difusion-rrss
 * heros-diseño
 * heros-funding
